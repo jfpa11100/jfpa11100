@@ -1,6 +1,7 @@
 # 💫 About Me:
 🔭 I’m continuously learning about software development, with a focus on backend technologies<br>👯 I’m looking to collaborate on impactful software projects<br>🌱 Currently exploring new backend frameworks and best practices<br>💬 Feel free to reach out if you want to discuss software architecture or backend development<br>⚡ I’m passionate about staying up to date with the latest trends in tech
 
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><a href="https://jfpa11100.github.io/MyProjects/"><b> My website</b></a></img>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jfpa_11100) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/juan-felipe-palacio-agudelo-936766278) 
