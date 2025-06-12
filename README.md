@@ -1,6 +1,7 @@
 # 💫 About Me:
 👋 Hi there! I'm a Systems Engineering student in my 8th semester, passionate about software development and clean, scalable code. I enjoy building robust web applications (mainly backend) and creating beautiful, functional mobile apps using Flutter 📱.<br><br>🔭 I’m continuously learning about software development, with a focus on backend and new technologies.<br>🌱 Currently exploring new backend frameworks and best practices<br>💬 Feel free to reach out if you'd like to discuss any development-related topics<br>⚡ I’m passionate about staying up to date with the latest trends in tech
 
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><a href="https://jfpa11100.github.io/MyProjects/"><b> My website</b></a></img>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/juan-felipe-palacio-agudelo-936766278/) 
